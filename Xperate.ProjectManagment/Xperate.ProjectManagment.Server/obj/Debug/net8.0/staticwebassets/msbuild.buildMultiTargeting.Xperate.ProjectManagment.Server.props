@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Xperate.ProjectManagment.Server.props" />
+</Project>

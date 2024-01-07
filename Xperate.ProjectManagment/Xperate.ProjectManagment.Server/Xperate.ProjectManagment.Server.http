@@ -1,0 +1,6 @@
+@Xperate.ProjectManagment.Server_HostAddress = http://localhost:5030
+
+GET {{Xperate.ProjectManagment.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

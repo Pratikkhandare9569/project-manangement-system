@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "TB5aQ4oWhYqIAcc37442c3rDe4Ql9HA9uhpTtvnCjcE=",
+  "Source": "Xperate.ProjectManagment.Server",
+  "BasePath": "_content/Xperate.ProjectManagment.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\prati\\OneDrive\\Desktop\\Xpeate\\Xperate.ProjectManagment\\xperate.projectmanagment.client\\xperate.projectmanagment.client.esproj",
+      "Version": 2,
+      "Source": "xperate.projectmanagment.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,14 @@
+C:\Users\prati\OneDrive\Desktop\Xpeate\Xperate.ProjectManagment\Xperate.Datalayer\obj\Debug\net8.0\Xperate.Datalayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prati\OneDrive\Desktop\Xpeate\Xperate.ProjectManagment\Xperate.Datalayer\obj\Debug\net8.0\Xperate.Datalayer.AssemblyInfoInputs.cache
+C:\Users\prati\OneDrive\Desktop\Xpeate\Xperate.ProjectManagment\Xperate.Datalayer\obj\Debug\net8.0\Xperate.Datalayer.AssemblyInfo.cs
+C:\Users\prati\OneDrive\Desktop\Xpeate\Xperate.ProjectManagment\Xperate.Datalayer\obj\Debug\net8.0\Xperate.Datalayer.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\Xpeate\Xperate.ProjectManagment\Xperate.Datalayer\obj\Debug\net8.0\Xperate.Datalayer.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\Xpeate\Xperate.ProjectManagment\Xperate.Datalayer\bin\Debug\net8.0\Xperate.Datalayer.deps.json
+C:\Users\prati\OneDrive\Desktop\Xpeate\Xperate.ProjectManagment\Xperate.Datalayer\bin\Debug\net8.0\Xperate.Datalayer.dll
+C:\Users\prati\OneDrive\Desktop\Xpeate\Xperate.ProjectManagment\Xperate.Datalayer\bin\Debug\net8.0\Xperate.Datalayer.pdb
+C:\Users\prati\OneDrive\Desktop\Xpeate\Xperate.ProjectManagment\Xperate.Datalayer\obj\Debug\net8.0\Xperate.Datalayer.dll
+C:\Users\prati\OneDrive\Desktop\Xpeate\Xperate.ProjectManagment\Xperate.Datalayer\obj\Debug\net8.0\refint\Xperate.Datalayer.dll
+C:\Users\prati\OneDrive\Desktop\Xpeate\Xperate.ProjectManagment\Xperate.Datalayer\obj\Debug\net8.0\Xperate.Datalayer.pdb
+C:\Users\prati\OneDrive\Desktop\Xpeate\Xperate.ProjectManagment\Xperate.Datalayer\obj\Debug\net8.0\ref\Xperate.Datalayer.dll
+C:\Users\prati\OneDrive\Desktop\Xpeate\Xperate.ProjectManagment\Xperate.Datalayer\bin\Debug\net8.0\Xperate.Datalayer.runtimeconfig.json
+C:\Users\prati\OneDrive\Desktop\Xpeate\Xperate.ProjectManagment\Xperate.Datalayer\obj\Debug\net8.0\Xperate.Datalayer.genruntimeconfig.cache

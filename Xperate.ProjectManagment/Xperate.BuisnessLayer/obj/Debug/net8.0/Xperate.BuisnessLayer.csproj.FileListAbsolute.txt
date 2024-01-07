@@ -1,0 +1,17 @@
+C:\Users\prati\OneDrive\Desktop\Xpeate\Xperate.ProjectManagment\Xperate.BuisnessLayer\bin\Debug\net8.0\Xperate.BuisnessLayer.deps.json
+C:\Users\prati\OneDrive\Desktop\Xpeate\Xperate.ProjectManagment\Xperate.BuisnessLayer\bin\Debug\net8.0\Xperate.BuisnessLayer.runtimeconfig.json
+C:\Users\prati\OneDrive\Desktop\Xpeate\Xperate.ProjectManagment\Xperate.BuisnessLayer\bin\Debug\net8.0\Xperate.BuisnessLayer.dll
+C:\Users\prati\OneDrive\Desktop\Xpeate\Xperate.ProjectManagment\Xperate.BuisnessLayer\bin\Debug\net8.0\Xperate.BuisnessLayer.pdb
+C:\Users\prati\OneDrive\Desktop\Xpeate\Xperate.ProjectManagment\Xperate.BuisnessLayer\bin\Debug\net8.0\Xperate.Datalayer.dll
+C:\Users\prati\OneDrive\Desktop\Xpeate\Xperate.ProjectManagment\Xperate.BuisnessLayer\bin\Debug\net8.0\Xperate.Datalayer.pdb
+C:\Users\prati\OneDrive\Desktop\Xpeate\Xperate.ProjectManagment\Xperate.BuisnessLayer\obj\Debug\net8.0\Xperate.BuisnessLayer.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\Xpeate\Xperate.ProjectManagment\Xperate.BuisnessLayer\obj\Debug\net8.0\Xperate.BuisnessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prati\OneDrive\Desktop\Xpeate\Xperate.ProjectManagment\Xperate.BuisnessLayer\obj\Debug\net8.0\Xperate.BuisnessLayer.AssemblyInfoInputs.cache
+C:\Users\prati\OneDrive\Desktop\Xpeate\Xperate.ProjectManagment\Xperate.BuisnessLayer\obj\Debug\net8.0\Xperate.BuisnessLayer.AssemblyInfo.cs
+C:\Users\prati\OneDrive\Desktop\Xpeate\Xperate.ProjectManagment\Xperate.BuisnessLayer\obj\Debug\net8.0\Xperate.BuisnessLayer.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\Xpeate\Xperate.ProjectManagment\Xperate.BuisnessLayer\obj\Debug\net8.0\Xperate.BuisnessLayer.csproj.CopyComplete
+C:\Users\prati\OneDrive\Desktop\Xpeate\Xperate.ProjectManagment\Xperate.BuisnessLayer\obj\Debug\net8.0\Xperate.BuisnessLayer.dll
+C:\Users\prati\OneDrive\Desktop\Xpeate\Xperate.ProjectManagment\Xperate.BuisnessLayer\obj\Debug\net8.0\refint\Xperate.BuisnessLayer.dll
+C:\Users\prati\OneDrive\Desktop\Xpeate\Xperate.ProjectManagment\Xperate.BuisnessLayer\obj\Debug\net8.0\Xperate.BuisnessLayer.pdb
+C:\Users\prati\OneDrive\Desktop\Xpeate\Xperate.ProjectManagment\Xperate.BuisnessLayer\obj\Debug\net8.0\Xperate.BuisnessLayer.genruntimeconfig.cache
+C:\Users\prati\OneDrive\Desktop\Xpeate\Xperate.ProjectManagment\Xperate.BuisnessLayer\obj\Debug\net8.0\ref\Xperate.BuisnessLayer.dll
